@@ -23,6 +23,11 @@ nav {
 	width: 970px;
 	margin: 0 auto;
 }
+.pagination {
+	border: none;
+	border-radius: 0;
+	padding: 0;
+}
 #wrapper {
 	width: 970px;
 	margin: 0 auto;
